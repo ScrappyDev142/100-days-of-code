@@ -8,14 +8,14 @@
 
 **Link to work:** 
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: July 11, 2020
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: I spent most of my time on the JavaScript part of freecoodecamp. I did a little bit of CSS.
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Thoughts**: I really need to drop YouTube. It's killing my progress. I still lack focus. I need to get my act together. 
+
+**Link(s) to work**: 
 
 
 ### Day 1: June 27, Monday
